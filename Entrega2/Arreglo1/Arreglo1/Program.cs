@@ -8,7 +8,7 @@ int menor = 101;
 
 for (int i = 0; i < 10; i++)
 {
-    numeros[i] = aleatorio.Next(1, 101); 
+    numeros[i] = aleatorio.Next(1, 101);
     Console.Write(numeros[i] + " ");
 
     if (numeros[i] > mayor)
