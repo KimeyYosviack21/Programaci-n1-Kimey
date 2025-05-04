@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Programación\Programaci-n1-Kimey\Entrega2\Lista2\Lista2\bin\Debug\net8.0\Lista2.exe
+C:\Users\Usuario\Desktop\Programación\Programaci-n1-Kimey\Entrega2\Lista2\Lista2\bin\Debug\net8.0\Lista2.deps.json
+C:\Users\Usuario\Desktop\Programación\Programaci-n1-Kimey\Entrega2\Lista2\Lista2\bin\Debug\net8.0\Lista2.runtimeconfig.json
+C:\Users\Usuario\Desktop\Programación\Programaci-n1-Kimey\Entrega2\Lista2\Lista2\bin\Debug\net8.0\Lista2.dll
+C:\Users\Usuario\Desktop\Programación\Programaci-n1-Kimey\Entrega2\Lista2\Lista2\bin\Debug\net8.0\Lista2.pdb
+C:\Users\Usuario\Desktop\Programación\Programaci-n1-Kimey\Entrega2\Lista2\Lista2\obj\Debug\net8.0\Lista2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Programación\Programaci-n1-Kimey\Entrega2\Lista2\Lista2\obj\Debug\net8.0\Lista2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Programación\Programaci-n1-Kimey\Entrega2\Lista2\Lista2\obj\Debug\net8.0\Lista2.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Programación\Programaci-n1-Kimey\Entrega2\Lista2\Lista2\obj\Debug\net8.0\Lista2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Programación\Programaci-n1-Kimey\Entrega2\Lista2\Lista2\obj\Debug\net8.0\Lista2.sourcelink.json
+C:\Users\Usuario\Desktop\Programación\Programaci-n1-Kimey\Entrega2\Lista2\Lista2\obj\Debug\net8.0\Lista2.dll
+C:\Users\Usuario\Desktop\Programación\Programaci-n1-Kimey\Entrega2\Lista2\Lista2\obj\Debug\net8.0\refint\Lista2.dll
+C:\Users\Usuario\Desktop\Programación\Programaci-n1-Kimey\Entrega2\Lista2\Lista2\obj\Debug\net8.0\Lista2.pdb
+C:\Users\Usuario\Desktop\Programación\Programaci-n1-Kimey\Entrega2\Lista2\Lista2\obj\Debug\net8.0\Lista2.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Programación\Programaci-n1-Kimey\Entrega2\Lista2\Lista2\obj\Debug\net8.0\ref\Lista2.dll

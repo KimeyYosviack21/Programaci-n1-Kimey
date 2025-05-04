@@ -22,5 +22,5 @@ for (int i = 0; i < 10; i++)
     }
 }
 
-Console.WriteLine("El número mayor es: " + mayor);
-Console.WriteLine("El número menor es: " + menor);
+Console.WriteLine("El numero mayor es: " + mayor);
+Console.WriteLine("El numero menor es: " + menor);
